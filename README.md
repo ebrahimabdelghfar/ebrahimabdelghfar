@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimabdelghfar&" alt="ebrahimabdelghfar" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ebrahimabdelghfar&theme=minimal" alt="ebrahimabdelghfar" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ebrahimabdelghfar}&theme=vue" alt="ebrahimabdelghfar" /></p>
