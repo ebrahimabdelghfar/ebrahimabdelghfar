@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [not an easy surrender , alway looking to new things to learn , love to help other , a good code tracer](not an easy surrender , alway looking to new things to learn , love to help other , a good code tracer)
 
-- ⚡ Fun fact **I can decrease the intense in the atmosphere**
+- ⚡ good fact **I can decrease the intense in the atmosphere**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrahimabdelghfar&show_icons=true&locale=en" alt="ebrahimabdelghfar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimabdelghfar&" alt="ebrahimabdelghfar" /></p>
+
