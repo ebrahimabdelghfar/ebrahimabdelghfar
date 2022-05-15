@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Robotics , Machine learning**
 
-- 👯 I’m looking to collaborate on **Robotic arm projects**
+- 👯 I’m looking to collaborate on **Robotic arm projects and Embedded system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
 
