@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
 
-- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor**
+- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system**
 
 - 📫 How to reach me **Ebrahimabdelghfar550@gmail.com**
 
