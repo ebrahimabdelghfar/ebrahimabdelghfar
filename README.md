@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Robotics , Machine learning**
 
-- 👯 I’m looking to collaborate on **Robotic arm projects and Embedded system**
+- 👯 I’m looking to collaborate on **Robotic arm projects and Embedded systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
 
-- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system**
+- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system , Robotics**
 
 - 📫 How to reach me **Ebrahimabdelghfar550@gmail.com**
 
