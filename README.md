@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Abdelghfar Ebrahim</h1>
 <h3 align="center">A passionate Robotics software engineer</h3>
 <img src="https://gpvc.arturio.dev/ebrahimabdelghfar"/> </br>
-- 🔭 I’m currently working on [Medical service robot](https://github.com/ebrahimabdelghfar/medical_service_robot)
+- 🔭 worked on [Medical service robot](https://github.com/ebrahimabdelghfar/medical_service_robot)
 
-- 🌱 I’m currently learning **Robotics , Machine learning**
+- 🌱 currently learning **Robotics , Machine learning**
 
-- 👯 I’m looking to collaborate on **Robotic arm projects and Embedded systems**
+- 👯 looking to collaborate on **Robotic arm projects and Embedded systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
 
