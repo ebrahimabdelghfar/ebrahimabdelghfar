@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ebrahim Abdelghfar Ebrahim</h1>                 
+<h1 align="center">Hi 👋, I'm Ebrahim Abdelghfar Ebrahim</h1>   
 <h3 align="center">A passionate Robotics software engineer</h3>
+<h3 align="center">
+<img src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif"/>
+</h3>
 <img src="https://gpvc.arturio.dev/ebrahimabdelghfar"/> </br>
 - 🔭 worked on [Medical service robot](https://github.com/ebrahimabdelghfar/medical_service_robot)
 
@@ -29,4 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrahimabdelghfar&show_icons=true&locale=en&layout=compact" alt="ebrahimabdelghfar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrahimabdelghfar&show_icons=true&locale=en" alt="ebrahimabdelghfar" /></p>
+
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahimabdelghfar&theme=vue" alt="ebrahimabdelghfar" /></p>
