@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
 
-- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system , Robotics**
+- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system , Robotics , PLC**
 
 - 📫 How to reach me **Ebrahimabdelghfar550@gmail.com**
 
