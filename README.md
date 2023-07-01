@@ -5,21 +5,6 @@
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
 </h3>
 
-- 🔭 worked on [Medical service robot](https://github.com/ebrahimabdelghfar/medical_service_robot)
-
-- 🌱 currently learning **Robotics , Machine learning**
-
-- 👯 looking to collaborate on **Robotic arm projects and Embedded systems**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ebrahimabdelghfar](https://github.com/ebrahimabdelghfar)
-
-- 💬 Ask me about **Python , ROS , C++ , autodesk Inventor , Embedded system , Robotics , PLC**
-
-- 📫 How to reach me **Ebrahimabdelghfar550@gmail.com**
-
-- 📄 Know about my experiences [not an easy surrender , alway looking to new things to learn , love to help other , a good code tracer](not an easy surrender , alway looking to new things to learn , love to help other , a good code tracer)
-
-- ⚡ good fact **I can decrease the intense in the atmosphere**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
