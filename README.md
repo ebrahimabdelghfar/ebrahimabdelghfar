@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ebrahim Abdelghfar Ebrahim</h1>   
-<h3 align="center">Robotics software engineer</h3>
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=500&lines=Hello%F0%9F%91%8B%2C+My+name+is+Ebrahim+Abdelghfar;An+enthusiast+Robotic+software+engineer)](https://git.io/typing-svg)
+  
+</h1>   
 
 <h3 align="center">
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
