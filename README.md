@@ -7,6 +7,15 @@
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
 </h3>
 
+<h3 align="left">Technical stack:</h3>
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Robotics Core** | ![ROS](https://img.shields.io/badge/ROS-ROS1_%26_ROS2-22314E?style=flat-square&logo=ros) ![Nav2](https://img.shields.io/badge/Stack-Nav2-blue?style=flat-square) ![MoveIt](https://img.shields.io/badge/Motion-MoveIt-green?style=flat-square) |
+| **Simulation** | ![Gazebo](https://img.shields.io/badge/Sim-Gazebo-orange?style=flat-square) ![CoppeliaSim](https://img.shields.io/badge/Sim-CoppeliaSim-blueviolet?style=flat-square) ![Carla](https://img.shields.io/badge/Sim-CARLA-black?style=flat-square) ![Isaac sim](https://img.shields.io/badge/Isaac-SIM-green?style=flat-square) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat-square&logo=gnu-bash) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux) ![Git](https://img.shields.io/badge/VCS-Git-F05032?style=flat-square&logo=git) ![CMake](https://img.shields.io/badge/Build-CMake-064F8C?style=flat-square&logo=cmake) |
+| **Hardware/Embedded**| ![ESP32](https://img.shields.io/badge/MCU-ESP32-red?style=flat-square) ![STM32](https://img.shields.io/badge/MCU-STM32-blue?style=flat-square) ![PCB](https://img.shields.io/badge/Design-PCB-green?style=flat-square) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
